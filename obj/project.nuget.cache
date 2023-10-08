@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yiH952UG3rqPBcekuBghXKzZzXx59DN+8I82RLzo0881iaL/yPwfJeXHOeJUahwOUlP+mNy5Tas+VbsUskC+vg==",
+  "success": true,
+  "projectFilePath": "/Users/chengyihuang/Documents/GitHub/project-1-ray-tracer-kind0fBlue/RayTracer.csproj",
+  "expectedPackageFiles": [
+    "/Users/chengyihuang/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/Users/chengyihuang/.nuget/packages/stbimagewritesharp/1.16.7/stbimagewritesharp.1.16.7.nupkg.sha512"
+  ],
+  "logs": []
+}
